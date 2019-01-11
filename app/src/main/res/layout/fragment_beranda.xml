@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!--<ImageView-->
+        <!--android:id="@+id/logo"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="290dp"-->
+        <!--android:src="@drawable/kelas"/>-->
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textHura"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="Biodata Pembuat"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="23dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:textColor="#000000"
+        android:textSize="22dp"
+        android:textStyle="italic"
+        android:text="Created By"/>
+
+    <TextView
+        android:id="@+id/namaku"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:textSize="19dp"
+        android:textColor="#000000"
+        android:text="Nama   : Agif Noventya P."/>
+
+    <TextView
+        android:id="@+id/torr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:textSize="19dp"
+        android:textColor="#000000"
+        android:text="Nama   : Reza Ulul"/>
+</LinearLayout>

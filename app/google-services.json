@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "800316397727",
+    "firebase_url": "https://tubesbaru-82a04.firebaseio.com",
+    "project_id": "tubesbaru-82a04",
+    "storage_bucket": "tubesbaru-82a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800316397727:android:d65f632a2b853625",
+        "android_client_info": {
+          "package_name": "com.example.makoto.tubesbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800316397727-ct4qr5f1k9jgqamuqmk1pv9g28le27ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makoto.tubesbaru",
+            "certificate_hash": "f55976f67b94ae492e09921b81adcffaed600982"
+          }
+        },
+        {
+          "client_id": "800316397727-oqr1koq3vdtjjet0bpqhrulsineo7nh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArC2oSvkNMFyP9bbQA9VwfcJK6AzziCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800316397727-oqr1koq3vdtjjet0bpqhrulsineo7nh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
